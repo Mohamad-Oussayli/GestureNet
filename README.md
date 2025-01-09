@@ -6,7 +6,7 @@
 Sign language is an essential mode of communication for individuals who are deaf or hard of hearing. However, there is often a communication gap between sign language users and those who don't understand sign language. Automating the recognition of American Sign Language (ASL) gestures can help bridge this gap by providing a tool that interprets sign language in real-time, fostering inclusion and better communication.
 
 ## Dataset
-To train and test the model, we used the [Sign Language MNIST dataset](https://www.kaggle.com/datasets/datamunge/sign-language-mnist). You can download the dataset from Kaggle and use it for your own projects.
+To train and test the model, I used the [Sign Language MNIST dataset](https://www.kaggle.com/datasets/datamunge/sign-language-mnist). You can download the dataset from Kaggle and use it for your own projects.
 
 ## Steps
 1. **Data Preprocessing:**
